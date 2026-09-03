@@ -3,3 +3,9 @@
 .DS_Store
 .vscode/
 
+
+# Course Materials
+sources/**/*.pdf
+sources/**/*.ppt*
+sources/**/*.doc*
+
